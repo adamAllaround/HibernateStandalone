@@ -7,8 +7,6 @@
     <persistence-unit name="hibernatePlayground">
         <class>com.allaroundjava.hibernate.model.Car</class>
         <properties>
-            <property name="hibernate.format_sql" value="true"/>
-            <property name="hibernate.use_sql_comments" value="true"/>
             <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL57Dialect"/>
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/hibernate_playground?useLegacyDatetimeCode=false&amp;serverTimezone=UTC"/>
             <property name="javax.persistence.jdbc.user" value="hibernate_user"/>
