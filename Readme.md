@@ -1,6 +1,6 @@
 # Setting up Hibernate Java application
 
-This project shows how to set up Java application with Hibernate and can be used as a template for Hibernate projects. Details of setting up Hibernate with Java are described in the following article on allaroundjava.com. [How to setup Java application with Hibernate](https://allaroundjava.com/)
+This project shows how to set up Java application with Hibernate and can be used as a template for Hibernate projects. Details of setting up Hibernate with Java are described in the following article on allaroundjava.com. [How to setup Java application with Hibernate](https://allaroundjava.com/setting-up-java-application-with-hibernate-example/)
 
 ## How to run the project
 * Fork the repository
